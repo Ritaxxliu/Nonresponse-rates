@@ -30,6 +30,11 @@ format: pdf
 ## When thinking over different opinions,  we notice that the use of auxiliary variables is crucial to assess potential bias and implement post-data collection adjustments. The Imbalance Statistic proposed by Sӓrndal and Lundquist serves as a monitoring tool to reduce sample imbalance through data collection interventions. The article emphasizes the effectiveness of the nonresponse adjustments when respondents are more representative, which implies a combined approach of data collection adaptations and post-survey adjustments will do better rather than simply applying each method. Certainly, we should also decide which method to apply under different conditions.
 
 ## In conclusion, the article provides a comprehensive overview of the challenges proposed by nonresponse in surveys and the matching methods to address them. We still need ongoing research to adapt to changing surveys, improve prediction models, and enhance the effectiveness of post-data treatment for nonresponse. In building the related-theory nonresponse propensity model, we have different voices in applying factors, but it is certain that auxiliary variables undertake an important role in building model and nonresponse adjustments. The exploring process is hard for us to ensure whether it is right or not, so we are able to attempt to figure out the conflicts in the future based on the proved agreements before.
+
+\newpage
+## Reference
+Special virtual issue on nonresponse rates and nonresponse adjustments. Oxford Academic. (n.d.). 
+https://academic.oup.com/jssam/pages/special-virtual-issue-on-nonresponse-rates-and-nonresponse-adjustments?login=false
 ---
 
 
