@@ -1,0 +1,26 @@
+---
+title: "Nonresponse_rates: theory-driven nonresponse propensity model"
+date: "2024-02-05"
+author: "Xiaoxu Liu"
+format: pdf
+---
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# Author: Xiaoxu Liu
+# Email: xiaoxu.liu@mail.utoronto.ca
+# Date: 2024.2.5
+```
+
+\newpage
+
+## Sampling is a fundamental method to achieve accurate and timely estimates of crucial survey outcomes. Using sampling is usually more prior than using the full census. During the survey, researchers undertake significant control during the design stage, attempting to minimize errors. However, there are still uncertainties in data collection, introducing challenges such as unit and item nonresponse. If nonresponse isn't completely random(MCAR), complete case analysis becomes inefficient for losing relevant information. Thus, statistical adjustments become essential, and understanding the survey response mechanism is crucial for effective remediation strategies. In JSSAM publications, the article discusses the challenges and approaches in dealing with nonresponse in surveys, focusing on key aspects related to changes in response rates over time, building theory-driven nonresponse propensity models, and determining appropriate post-data treatment for nonresponse. 
+
+
+## Overall, the declining trend in response rates across various modes (especially online surveys) raises concerns about the representativeness of survey samples, considering the impact on different study designs and countries. The article that introduces the concept of theory-driven nonresponse propensity models encourages surveys to enhance nonresponse adjustment, highlighting the importance of identifying predictive auxiliary variables; Then the article talks about the distinction between missing at PMAR and SMAR, and supposes different approaches, such as fractional imputation and a propensity-score-weighting approach under NMAR response mechanism. What’s more, the final set of papers delves into post-data treatment for nonresponse, which evaluates general calibration models and alternative methods like post stratification and ranking.
+
+## One of the most basic issues is how nonresponse values will affect the research and how we can try to eliminate the errors by adjusting methods of data collection and filtration. To be specific, looking further into the adjustment part of the theory-driven nonresponse propensity models, we find that the chosen low response rates usually refer to systematic differences between respondents and nonrespondents on key estimates ( Peytcheva and Groves 2009).  To measure the existence and extent of these differences, we apply auxiliary variables that are available for all sample units (and key outcomes). Weighting adjustments and deviations are necessary for the measurement; besides, there is an article that utilizes the nonresponse propensity model at the individual level, which specifies the differences and potential ways to adjust data.
+
+---
+
+
+
+
